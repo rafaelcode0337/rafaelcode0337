@@ -1,23 +1,11 @@
-### <div align="center">Hi, I'm Rafael</div>
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### <div align="center">Currently learning</div>
-<div align="center">
-<img style="margin: 10px" src="https://svgshare.com/i/YzN.svg" alt="C" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50"/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://iconape.com/wp-content/files/ez/353342/png/javascript-logo.png" alt="JS" height="50"/>
-<img style="margin: 10px" src="https://iconape.com/wp-content/files/ep/353380/png/vuejs-logo.png" alt="Vue" height="50"/>
-<img style="margin: 10px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Node" height="50"/>
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass" height="50"/>
-<img style="margin: 10px" src="https://img2.gratispng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" alt="SQL" height="50"/>
-<img style="margin: 10px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" height="50"/>
-</div>
-                                                                              
-</br>
+### Hi 👋
+I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
+- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
+- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
+- 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
-### <div align="center">My Stats</div>
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rafaelcode0337&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcode0337&layout=compact" align="center" /></div>
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
